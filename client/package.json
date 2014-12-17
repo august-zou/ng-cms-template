@@ -1,0 +1,10 @@
+{
+  "name": "ng-cms-client",
+  "version": "0.0.1",
+  "description": "ng cms web",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm app.js"
+  },
+  "author": "august-zou"
+}
